@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "bKX8DnoBgRk=",
+  "success": true,
+  "projectFilePath": "/Users/melis/Desktop/telegramBot/TelegramBot.csproj",
+  "expectedPackageFiles": [
+    "/Users/melis/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/melis/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/Users/melis/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/melis/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/melis/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "/Users/melis/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/melis/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512",
+    "/Users/melis/.nuget/packages/telegram.bot/22.0.0/telegram.bot.22.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "TelegramBot depends on Telegram.Bot (>= 21.6.1) but Telegram.Bot 21.6.1 was not found. Telegram.Bot 22.0.0 was resolved instead.",
+      "projectPath": "/Users/melis/Desktop/telegramBot/TelegramBot.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/melis/Desktop/telegramBot/TelegramBot.csproj",
+      "libraryId": "Telegram.Bot",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

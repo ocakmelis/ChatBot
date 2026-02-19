@@ -1,0 +1,17 @@
+/Users/melis/Desktop/telegramBot/bin/Debug/net8.0/TelegramBot
+/Users/melis/Desktop/telegramBot/bin/Debug/net8.0/TelegramBot.deps.json
+/Users/melis/Desktop/telegramBot/bin/Debug/net8.0/TelegramBot.runtimeconfig.json
+/Users/melis/Desktop/telegramBot/bin/Debug/net8.0/TelegramBot.dll
+/Users/melis/Desktop/telegramBot/bin/Debug/net8.0/TelegramBot.pdb
+/Users/melis/Desktop/telegramBot/bin/Debug/net8.0/Telegram.Bot.dll
+/Users/melis/Desktop/telegramBot/obj/Debug/net8.0/TelegramBot.csproj.AssemblyReference.cache
+/Users/melis/Desktop/telegramBot/obj/Debug/net8.0/TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melis/Desktop/telegramBot/obj/Debug/net8.0/TelegramBot.AssemblyInfoInputs.cache
+/Users/melis/Desktop/telegramBot/obj/Debug/net8.0/TelegramBot.AssemblyInfo.cs
+/Users/melis/Desktop/telegramBot/obj/Debug/net8.0/TelegramBot.csproj.CoreCompileInputs.cache
+/Users/melis/Desktop/telegramBot/obj/Debug/net8.0/Telegram.C5E56D06.Up2Date
+/Users/melis/Desktop/telegramBot/obj/Debug/net8.0/TelegramBot.dll
+/Users/melis/Desktop/telegramBot/obj/Debug/net8.0/refint/TelegramBot.dll
+/Users/melis/Desktop/telegramBot/obj/Debug/net8.0/TelegramBot.pdb
+/Users/melis/Desktop/telegramBot/obj/Debug/net8.0/TelegramBot.genruntimeconfig.cache
+/Users/melis/Desktop/telegramBot/obj/Debug/net8.0/ref/TelegramBot.dll
