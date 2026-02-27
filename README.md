@@ -81,7 +81,7 @@ Güncel Piyasa Verileri
 
 ## 📱 Uygulama Çıktısı
 
-![Telegram Bot Çıktısı](<img src="https://github.com/user-attachments/assets/2e41ea6c-b226-42d0-a31d-235849cff6d6" width="400"/>)
+![Telegram Bot Çıktısı](https://github.com/user-attachments/assets/2e41ea6c-b226-42d0-a31d-235849cff6d6)
 
 
 
